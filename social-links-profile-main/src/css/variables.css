@@ -1,0 +1,6 @@
+:root{
+    --selection: hsla(0, 94%, 45%, 0.76);
+    --back-ground:hsl(0, 0%, 8%);
+    --card: hsl(0, 0%, 12%);
+    --button:hsl(0, 0%, 20%);
+}
